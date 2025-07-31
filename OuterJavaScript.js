@@ -1,0 +1,1 @@
+alert("Hello, welcome to Aebon's HTML Basic document!");
